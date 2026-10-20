@@ -1,48 +1,58 @@
 
 <div align="center">
 
-# ⚡ SEU NOME
+# 👨‍💻 Joao Felippe
 
-### Desenvolvedor | Inteligência Artificial | Tecnologia
+### Desenvolvedor | Tecnologia | Inteligência Artificial
 
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-
-<br>
-
-*Transformando ideias em soluções inteligentes.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SEU_USUARIO)
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Analytics-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech-Stack-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 🧑‍💻 Sobre mim
 
-- 🤖 Explorando inteligência artificial.
-- 💻 Desenvolvendo projetos e automações.
-- 🌐 Interessado em redes e infraestrutura.
-- 🚀 Sempre aprendendo novas tecnologias.
+Olá! Seja bem-vindo ao meu perfil.
 
-## ⚙️ Tecnologias
+- 🚀 Desenvolvendo projetos e soluções tecnológicas.
+- 🤖 Explorando inteligência artificial e automação.
+- 💻 Aprendendo e aprimorando minhas habilidades.
+- 🌐 Interessado em infraestrutura, redes e desenvolvimento.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 📊 GitHub Analytics
 
-## 🚀 Projetos
+<div align="center">
 
-### 🤖 VISAO
-Assistente de inteligência artificial em desenvolvimento.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
 
-### 🛠️ Automação
-Projetos para facilitar tarefas e otimizar processos.
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,docker,linux&theme=dark" />
+
+</div>
+
+## 🚀 Projetos em destaque
+
+- 🤖 **VISAO** — assistente de inteligência artificial.
+- ⚙️ **Automação** — ferramentas para otimizar tarefas.
+- 💻 **Projetos pessoais** — aplicações e experimentos.
+
+*Adicione os links dos seus projetos reais nesta seção.*
 
 ---
 
 <div align="center">
 
-**Obrigado por visitar meu perfil! 💙**
+### Obrigado pela visita! 💙
 
 </div>
