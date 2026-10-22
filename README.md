@@ -1,4 +1,4 @@
-
+-------------------------------------------------------
 <div align="center">
 
 # 👨‍💻 Joao Felippe
@@ -27,9 +27,9 @@ Olá! Seja bem-vindo ao meu perfil.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=joaofelippefideles&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelippefideles&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
