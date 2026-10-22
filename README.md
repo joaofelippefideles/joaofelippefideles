@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou o Joao Felippe 👨‍💻</h1>
 
-![](https://komarev.com/ghpvc/?username=rodrigoduartesilva&style=for-the-badge&color=orange)
+![](https://komarev.com/ghpvc/?username=joaofelippefideles&style=for-the-badge&color=orange)
 
 ## :bearded_person: Redes e contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-felippe-ribeiro-fideles)
