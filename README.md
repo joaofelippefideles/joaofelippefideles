@@ -5,10 +5,10 @@
 ![](https://komarev.com/ghpvc/?username=rodrigoduartesilva&style=for-the-badge&color=orange)
 
 ## :bearded_person: Redes e contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoduar-te/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rodrigoduartesilva@yahoo.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-felippe-ribeiro-fideles)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:felippejoao74@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](
-https://wa.me/55+21+979401487)
+https://wa.me/55+21+974812511)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
