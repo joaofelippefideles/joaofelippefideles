@@ -1,6 +1,6 @@
 <img src="Desktop.png" />
 
-<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou o Rodrigo Duarte 👨‍💻</h1>
+<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou o Joao Felippe 👨‍💻</h1>
 
 ![](https://komarev.com/ghpvc/?username=rodrigoduartesilva&style=for-the-badge&color=orange)
 
